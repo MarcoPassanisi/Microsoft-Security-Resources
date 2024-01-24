@@ -13,3 +13,4 @@ Become a Microsoft Security Ninja
 * Microsoft Defender for IoT Ninja Training: https://aka.ms/d4iotninja
 * The Microsoft Information Protection (MIP) Ninja Training: https://aka.ms/mipninja
 * Microsoft Defender for Cloud Apps Ninja Training: http://aka.ms/MDCANinjaTraining
+* Microsoft Unified SOC Platform Ninja: https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/become-a-microsoft-unified-soc-platform-ninja/ba-p/4014565
