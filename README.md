@@ -1,9 +1,7 @@
 # MSNinja
-## Become a Microsoft Security Ninja, the list of all Ninja Trainings
-
+Become a Microsoft Security Ninja, the list of all Ninja Trainings
 
 * [Azure Network Security](https://techcommunity.microsoft.com/t5/azure-network-security/azure-network-security-ninja-training/ba-p/2356101)
-
 * [Microsoft 365 Advanced eDiscovery](https://aka.ms/ediscoveryninja)
 * [Microsoft Defender XDR](https://aka.ms/M365Ninja)
 * [Microsoft Defender External Attack Surface Management](https://aka.ms/MDEASMNinja)
@@ -21,4 +19,4 @@
 * [Microsoft Purview Communication Compliance Ninja](https://aka.ms/ccninja)
 * [Microsoft Purview Compliance Manager Ninja](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/microsoft-purview-compliance-manager-mspcm-ninja-training-q1/ba-p/3181322)
 * [Microsoft Sentinel](https://aka.ms/SecurityCommunity/MS/Ninja)
- *[Microsoft Sentinel Notebooks](https://aka.ms/SecurityCommunity/MS/Ninja/Notebooks)
+ * [Microsoft Sentinel Notebooks](https://aka.ms/SecurityCommunity/MS/Ninja/Notebooks)
