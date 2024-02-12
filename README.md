@@ -1,8 +1,8 @@
 # MSNinja
-Become a Microsoft Security Ninja, the list of all Ninja Trainings
+## Become a Microsoft Security Ninja, the list of all Ninja Trainings
 
 
-* Azure Network Security:https://techcommunity.microsoft.com/t5/azure-network-security/azure-network-security-ninja-training/ba-p/2356101
+* [Azure Network Security]https://techcommunity.microsoft.com/t5/azure-network-security/azure-network-security-ninja-training/ba-p/2356101
 https://aka.ms/ediscoveryninja
 
 * Microsoft 365 Advanced eDiscovery
