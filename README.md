@@ -4,24 +4,24 @@
 
 * [Azure Network Security](https://techcommunity.microsoft.com/t5/azure-network-security/azure-network-security-ninja-training/ba-p/2356101)
 
-* [Microsoft 365 Advanced eDiscovery(https://aka.ms/ediscoveryninja)
+* [Microsoft 365 Advanced eDiscovery](https://aka.ms/ediscoveryninja)
 * [Microsoft Defender XDR](https://aka.ms/M365Ninja)
 * [Microsoft Defender External Attack Surface Management](https://aka.ms/MDEASMNinja)
 * [Microsoft Defender for Cloud](https://aka.ms/SecurityCommunity/MDC/Ninja)
 
-* [Microsoft Defender for Cloud Apps]()
+* [Microsoft Defender for Cloud Apps](https://aka.ms/SecurityCommunity/MDCA/Ninja)
 
-* [Microsoft Defender for Endpoint]()
-*[ Microsoft Defender for Identity]()
+* [Microsoft Defender for Endpoint](https://aka.ms/MDENinja)
+* [ Microsoft Defender for Identity](https://aka.ms/DFINinja)
 
 
-*[Microsoft Defender for IoT]()
+* [Microsoft Defender for IoT](https://aka.ms/SecurityCommunity/MDIoT/Ninja)
 
-*[Microsoft Defender for Office 365]()
+* [Microsoft Defender for Office 365](https://aka.ms/MDONinja)
 
-*[Microsoft Defender Threat Intelligence]()
+* [Microsoft Defender Threat Intelligence](https://aka.ms/BecomeAnMDTINinja)
 
-*[Microsoft Purview Insider Risk Management]()
+* [Microsoft Purview Insider Risk Management]()
 
 *[Microsoft Purview Data Lifecycle & Records Management]()
 
